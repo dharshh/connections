@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Connection</string>
+
+    <string name="title_activity_fullscreen">Connection</string>
+    <string name="dummy_button">Tap here to continue</string>
+    <string name="dummy_content">The Game of Cinema</string>
+</resources>
